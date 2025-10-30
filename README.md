@@ -1,4 +1,7 @@
-# CPA_TrabFinal
+# Trabalho Extensionista
+
+**Coleta Preparação e Análise de Dados**
+**Erick Carpes, Gabriel Domingues e Leonardo Gemin**
 
 ## Como rodar o projeto
 
