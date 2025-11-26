@@ -12,7 +12,21 @@ st.markdown('''
             
             Este projeto realiza uma análise exploratória de dados sobre os deputados da Câmara dos Deputados do Brasil. Utilizando dados de diversas fontes, criamos um dashboard interativo que permite visualizar informações como a distribuição de gênero, estado de origem, tempo de mandato e profissões mais comuns dos deputados ao longo do tempo. A flexibilidade dos filtros de tempo permite que o usuário explore os dados de acordo com seu interesse, seja por um período de anos específico ou por legislaturas.
 
-            **Referências:**
+            **Pergunta:**
+            
+            O senso comum realmente está certo?
+
+            **Metodologia CRISP-DM**
+            - Fase 1: Compreensão do Negócio
+            - Fase 2: Compreensão dos Dados 
+            - Fase 3: Preparação dos Dados
+
+            **Tecnologias: (Python Librarys)**
+            - Streamlit
+            - Pandas
+            - Plotly
+            
+            **Referências: (Arquivos JSON públicos da câmara dos deputados)**
             - `deputados.json`
             - `deputadosProfissoes.json`
             - `legislaturas.json`
